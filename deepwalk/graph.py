@@ -20,6 +20,7 @@ from scipy.sparse import issparse
 
 logger = logging.getLogger("deepwalk")
 
+# Learning from this
 
 __author__ = "Bryan Perozzi"
 __email__ = "bperozzi@cs.stonybrook.edu"
